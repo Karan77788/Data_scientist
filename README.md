@@ -15,7 +15,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 - **Random Forest** – [Random Forest Repo](https://github.com/Karan77788/Random_forest_)  
 - **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/Karan77788/SupportVector_Machine)  
 - **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/Karan77788/K_nearest_neighbour_)  
-- **Logistic Regression** – [Logistic Regression Repo](https://github.com/praveena-vidhyaprakash/Sentiment_predictor)  
+- **Logistic Regression** – [Logistic Regression Repo](https://github.com/Karan77788/Logistic_Regression_)  
 - **Naive Bayes** – [Naive Bayes Repo](https://github.com/shiivashaakeri/Naive-Bayes-Classifier-From-Scratch)  
 - **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/dmlc/xgboost)
 
